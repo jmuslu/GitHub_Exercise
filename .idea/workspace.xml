@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c54d781-601b-4f68-878b-8688dffc007d" name="Changes" comment="hellp">
-      <change afterPath="$PROJECT_DIR$/Hello.txt" afterDir="false" />
-    </list>
+    <list default="true" id="5c54d781-601b-4f68-878b-8688dffc007d" name="Changes" comment="hello add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,28 +33,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jbmus/AppData/Roaming/JetBrains/PyCharm2025.2/extensions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jbmus/AppData/Roaming/JetBrains/PyCharm2025.2/extensions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jbmus\AppData\Roaming\JetBrains\PyCharm2025.2\extensions" />
@@ -104,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758413499622</updated>
       <workItem from="1758413500743" duration="1082000" />
-      <workItem from="1758414599999" duration="371000" />
+      <workItem from="1758414599999" duration="671000" />
     </task>
     <task id="LOCAL-00001" summary="random stuff">
       <option name="closed" value="true" />
@@ -138,7 +138,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758413659892</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hellp">
+      <option name="closed" value="true" />
+      <created>1758414978079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758414978081</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hello add">
+      <option name="closed" value="true" />
+      <created>1758414986501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758414986501</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hello add">
+      <option name="closed" value="true" />
+      <created>1758414987951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758414987951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hello add">
+      <option name="closed" value="true" />
+      <created>1758414988650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758414988650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hello add">
+      <option name="closed" value="true" />
+      <created>1758415188617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758415188617</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="random stuff" />
     <MESSAGE value="hellp" />
-    <option name="LAST_COMMIT_MESSAGE" value="hellp" />
+    <MESSAGE value="hello add" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello add" />
   </component>
 </project>
